@@ -114,4 +114,5 @@ def findWaldo(gTarget, gSearch):
   #show the final image
   show(gSearch)
 
+#Set media path to folder with images : setMediaPath()
 #Run File by running: findWaldo(smallWaldo, smallScene)
