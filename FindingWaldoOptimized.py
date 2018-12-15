@@ -120,3 +120,4 @@ def findWaldo(gTarget, gSearch):
   #show the final image
   explore(gSearch)
 
+#Run File by running: findWaldo(bigWaldo, bigScene)
